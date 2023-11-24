@@ -48,7 +48,16 @@ Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
 
 [<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
 
+## Practises
+
+[my-gatsby-site](https://github.com/unnKoel/my-gatsby-site)
+
+## References
+
+[Getting Started](https://www.gatsbyjs.com/docs/tutorial/getting-started/)
+
+[Gatsby Concepts](https://www.gatsbyjs.com/docs/conceptual/gatsby-concepts/)
 
 ## Gatsby architecture
 
-![](./doc//gatsby-architecture.png)
+![](./doc/gatsby-architecture.svg)
